@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cottoncandy234
 - 👀 I’m interested in learing the basic of java and python..
 - 🌱 I have currently started learing some basic stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
+
 - 😄 Pronouns: she,her
 
 <!---
